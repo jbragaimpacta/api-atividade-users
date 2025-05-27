@@ -1,3 +1,15 @@
+<div align="center">
+<h2>Autores</h2>
+<h3>Filipe de Freitas Monteiro - </h3>
+<h3>Gabriel Martins Paz - </h3>
+<h3>João Victor Soares Braga - joao.soares@aluno.faculdadeimpacta.com.br </h3>
+<h3>Marcelo Kubart - </h3>
+<h3>Paulo Cesar Silva Cruz da Hora - </h3>
+<h3>Yasmin Fermino de Andrade Silva - </h3>
+</div>
+
+<br>
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
