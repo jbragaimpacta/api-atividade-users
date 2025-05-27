@@ -1,12 +1,18 @@
-<div align="center">
+
 <h2>Autores</h2>
-<h3>Filipe de Freitas Monteiro - filipe.monteiro@aluno.impacta.com.br </h3>
-<h3>Gabriel Martins Paz - gabriel.mpaz@aluno.faculdadeimpacta.com.br</h3>
-<h3>João Victor Soares Braga - joao.soares@aluno.faculdadeimpacta.com.br </h3>
-<h3>Marcelo Kubart - marcelo.kubart@aluno.faculdadeimpacta.com.br </h3>
-<h3>Paulo Cesar Silva Cruz da Hora - paulo.hora@aluno.faculdadeimpacta.com.br </h3>
-<h3>Yasmin Fermino de Andrade Silva - yasmin.fermino@aluno.faculdadeimpacta.com.br </h3>
-</div>
+<p>Filipe de Freitas Monteiro - filipe.monteiro@aluno.impacta.com.br </p>
+<p>Gabriel Martins Paz - gabriel.mpaz@aluno.faculdadeimpacta.com.br</p>
+<p>João Victor Soares Braga - joao.soares@aluno.faculdadeimpacta.com.br </p>
+<p>Marcelo Kubart - marcelo.kubart@aluno.faculdadeimpacta.com.br </p>
+<p>Paulo Cesar Silva Cruz da Hora - paulo.hora@aluno.faculdadeimpacta.com.br </p>
+<p>Yasmin Fermino de Andrade Silva - yasmin.fermino@aluno.faculdadeimpacta.com.br </p>
+
+<br>
+
+<h2>Descrição</h2>
+<p>
+  Este projeto foi desenvolvido como parte da disciplina de API Development do MBA em Engenharia de Software da Faculdade Impacta. Trata-se de uma aplicação NestJS que implementa uma API RESTful para gerenciamento completo de clientes, demonstrando os conceitos e práticas aprendidos durante o curso.
+</p>
 
 <br>
 
