@@ -21,7 +21,7 @@ Este projeto foi desenvolvido como parte da disciplina de API Development do MBA
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/jbragaimpacta/api-atividade-users.git
+   git clone https://github.com/jbragaimpacta/api-atividade-users.git users-api
    ```
 
 2. Navegue até o diretório do projeto:
@@ -53,7 +53,6 @@ A aplicação estará rodando em `http://localhost:3000`.
 - `GET /users` - Recuperar todos os usuários
 - `GET /users/:id` - Recuperar um usuário por ID
 - `POST /users` - Criar um novo usuário
-- `PUT /users/:id` - Atualizar um usuário existente
 - `PATCH /users/:id` - Atualizar parcialmente um usuário existente
 - `DELETE /users/:id` - Excluir um usuário
 
